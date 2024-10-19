@@ -36,6 +36,12 @@ move to bin
 sudo mv rclone /usr/local/bin/
 ```
 
+check installation worked
+
+```bash
+rclone version
+```
+
 start config
 
 ```bash
